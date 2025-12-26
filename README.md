@@ -14,4 +14,5 @@ untuk Studi Kasus II – Buttons of Logic.
 - State disimpan di memori (tanpa backend)
 
 ## Download APK
-https://ISI_LINK_APK_DI_SINI
+https://github.com/amir1911/buttons-of-logic/releases/download/v1.0.0/app-release.apk
+
